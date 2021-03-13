@@ -1,5 +1,5 @@
-n1 = int(input("Diginte um numero: "))
-n2 = int(input("Diginte um numero: "))
+n1 = int(input("Diginte um número: "))
+n2 = int(input("Diginte um número: "))
 
 print(
     f"Soma -> {n1} + {n2} = {n1 + n2}\n"

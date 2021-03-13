@@ -7,4 +7,4 @@ dtAtual = date.today()
 idade = dtAtual.year - dtn
 
 
-print(f"{nm} tem ou terá {idade}!")
+print(f"{nm} tem ou terá {idade} anos!")
