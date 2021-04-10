@@ -19,3 +19,12 @@ print(
     f"{acima5} Alunos tiram mais de 5.\n"
     f"{abaixo5} Alunos tiram menos de 5."
 )
+
+"""
+2. Dados o número n de alunos de uma turma de Algoritmos e suas notas da primeira prova,
+determinar a média das notas dessa turma. Considere que o usuário digite as informações
+corretamente.
+3. Altere o algoritmo anterior para, além da média, contar os alunos que tiraram entre 0 e 5, 0
+( 0 ≤ nota < 5, 0 ) e acima de 5, 0 ( nota ≥ 5, 0 ).
+
+"""

@@ -9,6 +9,6 @@ print(soma)
 
 
 """
-Algoritimo que recebe uma sequência de números inteiros
-e faz a soma dos números que são pares até que o usúario digite 0.
+1. Dada uma sequência de números inteiros onde o último elemento é o 0 , escreva um algoritmo
+que calcula a soma dos números pares da sequência.
 """
